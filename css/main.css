@@ -1,0 +1,232 @@
+body{
+    background-color: #9ac48a;
+    width: 100%;
+}
+
+
+
+ul {
+    /* style type none to remove jot note structure */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #68aa5b;
+    height: 45px;
+  }
+
+
+/* hover to add effect for going over images */
+li :hover:not(active) {
+    background-color: #000000;
+    opacity: 0.1; transition: 0.2s;
+    color: #ffffff;
+
+  }
+
+
+
+  li a {
+    /* display block to align items to the center of navbar */
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  /* Used to center the heading over the topic with styles */
+ .themain{
+  color: #80e651;
+  background-color: rgb(16, 124, 16);
+  text-align: center;
+  margin: auto;
+  margin-left: 880px;
+  margin-right: 880px;
+  font-family: Arial, Helvetica, sans-serif;
+
+  
+ }
+
+
+.Img1{
+  margin-left: 600px;
+  transition: opacity 3s;
+}
+
+.Img1:hover{
+  opacity: 0.1; transition: 0.2s;
+  transition: opacity 0.2s ease-out
+
+}
+
+
+/* Learn more tab to add more */
+.learnmore{
+  margin-left: 604px;
+}
+
+.theshoptitle{
+  color: #80e651;
+  background-color: rgb(16, 124, 16);
+  text-align: center;
+  margin: auto;
+  margin-left: 880px;
+  margin-right: 880px;
+  margin-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .Img3{
+  margin-left: 600px;
+  transition: opacity 3s;
+
+ }
+
+ .Img3:hover{
+  opacity: 0.1; transition: 0.2s;
+  transition: opacity 0.2s ease-out
+
+}
+
+ .img4{
+  margin-left: 1000px;
+  margin-top: -403px;
+  transition: opacity 3s;
+
+ }
+
+
+ .Img4:hover{
+  opacity: 0.1; transition: 0.2s;
+  transition: opacity 0.2s ease-out
+
+}
+
+
+ .Img5{
+  margin-left: 600px;
+  transition: opacity 3s;
+
+ }
+
+ .Img5:hover{
+  opacity: 0.1; transition: 0.2s;
+  transition: opacity 0.2s ease-out
+
+}
+
+ .Img6{
+  margin-left: 1000px;
+  margin-top: -403px;
+  transition: opacity 3s;
+ }
+ 
+
+ .Img6:hover{
+  opacity: 0.1; transition: 0.2s;
+  transition: opacity 0.2s ease-out
+
+}
+
+ .learnmore2{
+  margin-left: 604px;
+  margin-top: 100px;
+}
+
+.headquarters{
+  color: #80e651;
+  background-color: rgb(16, 124, 16);
+  text-align: center;
+  margin: auto;
+  margin-left: 880px;
+  margin-right: 780px;
+  font-family: Arial, Helvetica, sans-serif;
+ }
+
+
+ .Img7{
+  margin-left: 650px;
+  transition: opacity 3s;
+ }
+
+ .Img7:hover{
+  opacity: 0.1; transition: 0.2s;
+  transition: opacity 0.2s ease-out
+
+}
+
+ .hqaddr{
+  margin-left: 650px;
+  color: #000000;
+  text-shadow: #000000;
+ }
+
+.Img8{
+  margin-left: 800px;
+  transition: opacity 3s;
+
+}
+
+.Img8:hover{
+  opacity: 0.1; transition: 0.2s;
+  transition: opacity 0.2s ease-out
+
+}
+
+
+.Socials{
+  color: #80e651;
+  background-color: rgb(16, 124, 16);
+  text-align: center;
+  margin: auto;
+  margin-left: 890px;
+  margin-right: 790px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.Img9{
+  margin-left: 900px;
+  margin-top: -56px;
+  transition: opacity 3s;
+
+}
+
+.Img9:hover{
+  opacity: 0.1; transition: 0.2s;
+  transition: opacity 0.2s ease-out
+
+}
+
+.Img10{
+  margin-left: 1000px;
+  margin-top: -56px;
+  transition: opacity 3s;
+
+}
+
+.Img10:hover{
+  opacity: 0.1; transition: 0.2s;
+  transition: opacity 0.2s ease-out
+
+}
+
+.Img11{
+  margin-left: 1100px;
+  margin-top: -56px;
+  transition: opacity 3s;
+
+}
+
+.Img11:hover{
+  opacity: 0.1; transition: 0.2s;
+  transition: opacity 0.2s ease-out
+
+}
+
+.Footer{
+  color: #467a2e;
+  margin-left: 900px;
+  text-shadow: #ffffff;
+}
+

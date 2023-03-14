@@ -1,0 +1,72 @@
+body{
+    background-color: #9ac48a;
+}
+
+ul {
+    /* style type none to remove jot note structure */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #68aa5b;
+    height: 45px;
+  }
+
+li a{
+    display: block;
+    color: white;
+}
+
+li :hover:not(.active) {
+    background-color: #111;
+    opacity: 0.1; transition: 0.2s;
+
+  }
+
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .request{
+    color: #467a2e;
+    text-align: center;
+    text-shadow: #ffffff;
+    font-size: 30px;
+    margin-bottom: 60px;
+  }
+
+
+  .Img18{
+    margin-left: 1050px;
+    margin-top: -79px
+  }
+
+  .contact{
+    background-color: #fff8f8;
+  }
+
+  input:hover {
+    background-color: #ffffff;
+  }
+
+input,textarea {
+    padding: 10px;
+    width: 99%; 
+    border-radius: 4px; 
+    border: 1px solid #ccc; 
+  }
+
+  
+  input[submit] {
+    background-color: #6aa358;
+    color: white;
+  }
+  
+  
+  
+  

@@ -1,0 +1,146 @@
+body{
+    background-color: #9ac48a;
+}
+
+ul {
+    /* style type none to remove jot note structure */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #68aa5b;
+    height: 45px;
+  }
+
+li a{
+    display: block;
+    color: white;
+}
+
+li :hover:not(.active) {
+    background-color: #111;
+    opacity: 0.1; transition: 0.2s;
+
+  }
+
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  .Community{
+    color: #80e651;
+    background-color: rgb(16, 124, 16);
+    text-align: center;
+    margin: auto;
+    margin-left: 780px;
+    margin-right: 780px;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+
+
+  .Img12{
+    margin-left: 650px;
+    align-items: center;
+  }
+
+
+  .Img12:hover{
+    opacity: 0.1; transition: 0.2s;
+    transition: opacity 0.2s ease-out
+  
+  }
+
+
+  .Ads{
+    color: #80e651;
+    background-color: rgb(16, 124, 16);
+    text-align: center;
+    margin: auto;
+    margin-left: 900px;
+    margin-right: 900px;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+
+
+   .Img13{
+    margin-left: 650px;
+    transition: opacity 3s;
+
+  }
+
+  .Img13:hover{
+    opacity: 0.1; transition: 0.2s;
+    transition: opacity 0.2s ease-out
+  
+  }
+
+  .Img14{
+    margin-left: 950px;
+    margin-top: -180px;
+    transition: opacity 3s;
+
+  }
+
+  .Img14:hover{
+    opacity: 0.1; transition: 0.2s;
+    transition: opacity 0.2s ease-out
+  
+  }
+
+
+  .Img15{
+    margin-left: 650px;
+    transition: opacity 3s;
+
+
+  }
+
+  .Img15:hover{
+    opacity: 0.1; transition: 0.2s;
+    transition: opacity 0.2s ease-out
+  
+  }
+
+  .Img16{
+    margin-left: 950px;
+    margin-top: -180px;
+    transition: opacity 3s;
+  }
+
+
+  .Img16:hover{
+    opacity: 0.1; transition: 0.2s;
+    transition: opacity 0.2s ease-out
+  
+  }
+  .Application{
+    color: #80e651;
+    background-color: rgb(16, 124, 16);
+    text-align: center;
+    margin: auto;
+    margin-left: 800px;
+    margin-right: 850px;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+
+  .Img17{
+    margin-left: 550px;
+    transition: opacity 3s;
+
+  }
+  .Img17:hover{
+    opacity: 0.1; transition: 0.2s;
+    transition: opacity 0.2s ease-out
+  
+  }
+
+  .findoutmore{
+    margin-left: 555px;
+  }
+
+  
